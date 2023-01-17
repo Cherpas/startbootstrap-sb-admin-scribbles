@@ -1,12 +1,10 @@
-# [Start Bootstrap - SB Admin](https://startbootstrap.com/template/sb-admin/)
+# [Start Bootstrap - SB Admin Scribbles](https://github.com/Cherpas/startbootstrap-sb-admin-scribbles)
 
-[SB Admin](https://startbootstrap.com/template/sb-admin/) is an open source, admin dashboard template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+startbootstrap-sb-admin-scribbles is an open source, admin dashboard template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/) forked from [SB Admin](https://startbootstrap.com/template/sb-admin/).
 
 ## Preview
 
-[![SB Admin Preview](https://assets.startbootstrap.com/img/screenshots/templates/sb-admin.png)](https://startbootstrap.github.io/startbootstrap-sb-admin/)
-
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-sb-admin/)**
+![Exemple of a dashboard with scribbles](https://github.com/Cherpas/startbootstrap-sb-admin-scribbles/blob/master/src/assets/scribbes_dashboard.png?raw=true "startbootstrap-sb-admin-scribbles)")
 
 ## Status
 
