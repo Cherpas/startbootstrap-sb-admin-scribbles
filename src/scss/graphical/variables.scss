@@ -1,0 +1,54 @@
+$positions: (
+  "after": true,
+  "before": false,
+);
+
+$bolds: (
+  "light": "2px",
+  "regular": "4px",
+  "bold": "6px",
+);
+
+$bolders: (
+  "light": "3px",
+  "regular": "6px",
+  "bold": "10px",
+);
+
+$sizes: (
+  "s": 4,
+  "m": 8,
+  "l": 16,
+);
+
+$opacitys: (
+  "transp": 33%,
+  "cloudy": 66%,
+  "opaque": 100%,
+);
+
+$directions: (
+  "right": 0deg,
+  "top": 90deg,
+  "left": 180deg,
+  "bottom": 270deg,
+);
+
+$arrow_size: (
+  "sm": 50px,
+  "md": 100px,
+  "lg": 200px,
+);
+
+$colors: (
+  // use https://codepen.io/sosuke/pen/Pjoqqp
+  "alpha": invert(87%) sepia(38%) saturate(5640%) hue-rotate(311deg)
+    brightness(104%) contrast(100%),
+  //Orange2
+  "beta": invert(14%) sepia(16%) saturate(5161%) hue-rotate(238deg)
+    brightness(89%) contrast(98%),
+  //Blue2
+  "gamma": invert(89%) sepia(34%) saturate(658%) hue-rotate(14deg)
+    brightness(107%) contrast(108%),
+  //Yellow2
+);

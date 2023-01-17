@@ -14,6 +14,31 @@ block content
     .container-fluid.px-4
         include includes/page-header.pug
         .row
+            .col-xl-3.col-md-6.py-3
+                p._g 
+                    | This is a paragraph with an
+                    span.line-2-regular.clr-gamma-opaque.mrg-line-m
+                        | underline span
+            .col-xl-3.col-md-6.py-3
+                h3._g 
+                    | This is a title with a
+                    span.circle-2-regular.clr-alpha-cloudy.mrg-circle-m
+                        | surrounded
+                    | span
+            .col-xl-3.col-md-6.py-3
+                p._g
+                    span.pos-before.sun-4-bold.clr-beta-opaque
+                        | This 
+                    | is a paragraph starting with a sun
+            .col-xl-3.col-md-6.py-3
+                h3._g
+                    | This is a lovely
+                    span.pos-after.draw-3-regular.clr-alpha-opaque
+                        | paragraph 
+        .row 
+            ._gb.d-flex.m-auto.pt-2.pb-4
+                .m-auto.arrow-size-sm.dir-top.arrow-5-light.clr-beta-opaque 
+        .row
             .col-xl-3.col-md-6
                 .card.bg-primary.text-white.mb-4
                     .card-body
